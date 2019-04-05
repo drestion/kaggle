@@ -39,3 +39,5 @@ https://www.kaggle.com/willkoehrsen/a-walkthrough-and-a-challenge
 
 ## the blending techniques
 https://www.kaggle.com/ashishpatel26/different-basic-blends-possible
+the root of blending: https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3
+
