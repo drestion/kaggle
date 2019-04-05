@@ -36,3 +36,6 @@ iplot_mpl(f)
 
 ## common eda functions
 https://www.kaggle.com/willkoehrsen/a-walkthrough-and-a-challenge
+
+## the blending techniques
+https://www.kaggle.com/ashishpatel26/different-basic-blends-possible
