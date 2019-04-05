@@ -41,3 +41,7 @@ https://www.kaggle.com/willkoehrsen/a-walkthrough-and-a-challenge
 https://www.kaggle.com/ashishpatel26/different-basic-blends-possible
 the root of blending: https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3
 
+## really nice code boilerplaces
+This comes with timers and ways to organize aggregations
+https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution
+
