@@ -27,9 +27,7 @@ enable_mpl_offline()
 
 
 f = plt.figure(figsize=(42,42))
-#sns.scatterplot(train.bh_x, train.bh_y, train[(train.OilPeakRate<opr_median+100)&(train.OilPeakRate>opr_median-100)].OilPeakRate)
-sns.scatterplot(train.bh_x, train.bh_y, size=train[train.OilPeakRate>500].OilPeakRate,marker='o',sizes=(200,400),palette="Set2")
-sns.scatterplot(train.bh_x, train.bh_y, size=train[train.OilPeakRate<200].OilPeakRate,marker="x")
+f.....plot
 plt.title('Extreme vs BH')
 iplot_mpl(f)
 
