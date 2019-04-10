@@ -1,3 +1,7 @@
+# General Stretagy
+It's the same: quick iteration. fix what's not working. Do not spend time working on features that are "routine". Do not spend time blindly testing "new" features.       
+https://www.youtube.com/watch?v=bL4b1sGnILU
+
 # kaggle
 Useful leads
 ## Themes
@@ -35,6 +39,10 @@ iplot_mpl(f)
 ## common eda functions
 https://www.kaggle.com/willkoehrsen/a-walkthrough-and-a-challenge
 
+## Cousera Courses
+needs pandas to start.
+https://www.coursera.org/learn/competitive-data-science
+
 ## the blending techniques
 https://www.kaggle.com/ashishpatel26/different-basic-blends-possible
 the root of blending: https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3
@@ -42,4 +50,5 @@ the root of blending: https://medium.com/weightsandbiases/an-introduction-to-mod
 ## really nice code boilerplaces
 This comes with timers and ways to organize aggregations
 https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution
+
 
