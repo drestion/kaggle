@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=bL4b1sGnILU
 
 # kaggle
 Useful leads
+
+## Feature Engineering
+https://www.slideshare.net/HJvanVeen/feature-engineering-72376750
+
 ## Themes
 https://github.com/dunovank/jupyter-themes
 ### full width with theme grade3
