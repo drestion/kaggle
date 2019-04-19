@@ -55,4 +55,5 @@ the root of blending: https://medium.com/weightsandbiases/an-introduction-to-mod
 This comes with timers and ways to organize aggregations
 https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution
 
-
+## Machine learning model debug
+https://eli5.readthedocs.io/en/latest/index.html
