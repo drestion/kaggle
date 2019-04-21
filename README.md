@@ -57,3 +57,6 @@ https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution
 
 ## Machine learning model debug
 https://eli5.readthedocs.io/en/latest/index.html
+
+## xgboost vs lightGBM
+http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/   
