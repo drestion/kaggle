@@ -26,12 +26,14 @@ https://stackoverflow.com/questions/38256104/differences-between-merge-and-conca
 
 
 ## interactive figure
-import plotly.plotly as py
-from plotly.offline import init_notebook_mode, enable_mpl_offline, iplot_mpl
-#import cufflinks as cf
-init_notebook_mode(connected=True)
-#cf.go_offline(connected=True)
-enable_mpl_offline()
+```
+def enable_interactive_plot():
+    import plotly.plotly as py 
+    from plotly.offline import init_notebook_mode, enable_mpl_offline, iplot_mpl #import cufflinks as cf 
+    init_notebook_mode(connected=True) #cf.go_offline(connected=True) 
+    enable_mpl_offline()
+    
+```
 
 
 f = plt.figure(figsize=(42,42))
