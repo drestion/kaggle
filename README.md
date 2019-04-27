@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=bL4b1sGnILU
 
 # kaggle
 Useful leads
+## Video tutorial
+fantastic 
+https://www.bilibili.com/video/av42834527/?p=5
 
 ## Feature Engineering
 https://www.slideshare.net/HJvanVeen/feature-engineering-72376750
