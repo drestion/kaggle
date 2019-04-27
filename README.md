@@ -7,6 +7,7 @@ Useful leads
 ## Video tutorial
 fantastic 
 https://www.bilibili.com/video/av42834527/?p=5
+https://www.bilibili.com/video/av45664452?from=search&seid=13657101433764310245
 
 ## Feature Engineering
 https://www.slideshare.net/HJvanVeen/feature-engineering-72376750
