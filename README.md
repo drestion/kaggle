@@ -66,3 +66,6 @@ https://eli5.readthedocs.io/en/latest/index.html
 
 ## xgboost vs lightGBM
 http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/   
+
+## understanding transform
+https://pbpython.com/pandas_transform.html
