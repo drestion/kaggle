@@ -69,3 +69,13 @@ http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
 
 ## understanding transform
 https://pbpython.com/pandas_transform.html
+
+## numpy techniques
+### concat two arrays
+`
+t1=[1,2,3]
+t2=[4,5,6]
+print(t1)
+print(t2)
+np.c_[t1, t2] 
+`
