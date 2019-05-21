@@ -79,3 +79,7 @@ print(t1)
 print(t2)
 np.c_[t1, t2] 
 `
+
+## pandas techniques
+### Select columns by booleans
+https://stackoverflow.com/questions/29281815/pandas-select-dataframe-columns-using-boolean
