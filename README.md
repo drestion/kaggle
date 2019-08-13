@@ -60,6 +60,7 @@ the root of blending: https://medium.com/weightsandbiases/an-introduction-to-mod
 ## really nice code boilerplaces
 This comes with timers and ways to organize aggregations
 https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution
+https://www.kaggle.com/danielbecker/careervillage-org-recommendation-engine
 
 ## Machine learning model debug
 https://eli5.readthedocs.io/en/latest/index.html
