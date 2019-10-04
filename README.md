@@ -88,3 +88,6 @@ https://stackoverflow.com/questions/29281815/pandas-select-dataframe-columns-usi
 ## dataset distributions
 ### What to do when train and test come from different distributions
 https://www.freecodecamp.org/news/what-to-do-when-your-training-and-testing-data-come-from-different-distributions-d89674c6ecd8/
+
+## Front end
+https://github.com/streamlit/streamlit
